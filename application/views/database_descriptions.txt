@@ -1,0 +1,13 @@
+
+* table coffee, id_tag is the html id tag
+
+id, description,             price, id_tag,    list_name
+0    Coffee, Colombian brew          list_head   coffee 
+1    Add a hint of flavour!          note
+
+* table lists
+//id_list identifies which list the item belongs to
+id, descr_price, id_tag, list_name
+0    Small $1.20   list_   coffee
+1    Medium $1.40  list_   coffee
+2    Large  $1.60  list_   coffee 
