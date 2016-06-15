@@ -6,5 +6,5 @@ This is a Codeigniter website made by converting an HTML template
 - login
 - user registration
 
-A working version is at http://truelovecafe.byethost3.com/
+[!alt tag](https://github.com/edwardintoronto/Codeigniter-Website/blob/master/screenshot.png)
 
